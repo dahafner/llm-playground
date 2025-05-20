@@ -10,7 +10,7 @@ Dieses Projekt zeigt, wie man ein lokales Large Language Model (LLM) mit Ollama 
 ## Setup
 ```bash
 pip install llama-index gradio chromadb llama-index-embeddings-huggingface
-python app.py
+python main.py
 ```
 
 ## Nutzung
